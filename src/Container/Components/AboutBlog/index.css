@@ -1,0 +1,19 @@
+.aboutwrapper {
+  background-image: linear-gradient(#f380ef52, rgb(54, 95, 54));
+  padding: 50px 0;
+}
+
+.aboutwrapper img {
+  border-radius: 10px;
+}
+
+.aboutwrapper h1 {
+  letter-spacing: 5px;
+  font-weight: bolder;
+}
+
+.aboutwrapper p {
+  color: white;
+  letter-spacing: 1px;
+  line-height: 25px;
+}

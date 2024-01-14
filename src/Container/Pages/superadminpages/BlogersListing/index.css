@@ -1,0 +1,4 @@
+.userlisting .tabledata {
+  overflow-x: auto !important;
+  white-space: nowrap !important;
+}

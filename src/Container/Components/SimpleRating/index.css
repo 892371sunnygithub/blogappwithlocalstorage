@@ -1,0 +1,20 @@
+span.style-module_starRatingWrap__q-lJC {
+  display: flex !important;
+  justify-content: space-between;
+}
+
+@media (max-width: 767px) {
+  .simplestarrating span.style-module_starRatingWrap__q-lJC {
+    flex-direction: column;
+  }
+  .simplestarrating
+    span.style-module_simpleStarRating__nWUxf.react-simple-star-rating {
+    text-align: center !important;
+  }
+
+  .simplestarrating
+    span.style-module_tooltip__tKc3i.react-simple-star-rating-tooltip {
+    margin-left: 0 !important;
+    text-align: center;
+  }
+}

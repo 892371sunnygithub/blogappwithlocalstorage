@@ -1,0 +1,8 @@
+.updateblog .updateimage {
+  height: 100px !important;
+  width: 200px !important;
+  border-radius: 10px;
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
